@@ -15,6 +15,7 @@
     <section class="container pt-5 bg-light">
         <div class="row justify-content-center">
             <div class="col-md-10 shadow-sm p-3 bg-white">
+                <code class="text-right d-block">Magaly Ancalle Enriquez</code>
                 <h3 id="title" class=" p-2 bg-primary text-white mb-4"> </h3>
                 <canvas id="line-chart" width="300" height="150">
                 </canvas>
